@@ -22,4 +22,4 @@
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=nipun1999&theme=algolia&show_icons=true&locale=en&layout=compact" alt="nipun1999" /></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=nipun1999&theme=algolia&show_icons=true&count_private=true&hide=stars,contribs&include_all_commits=true" alt="nipun1999" /></p>
+<p>&nbsp;<img align="left" src="https://github-readme-stats.vercel.app/api?username=nipun1999&theme=algolia&show_icons=true&count_private=true&hide=stars,contribs&include_all_commits=true" alt="nipun1999" /></p>
